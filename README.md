@@ -1,5 +1,5 @@
 # 💫 About Me:
-😇 I'm a passionate developer.<br>💬 Ask me about Artificial Intelligence/Machine Learning/Data Science/AR/VR.<br>⚡ Fun fact: "AI Can Actually Read Your Mind".
+😇 I'm a passionate developer.<br>💬 Ask me about Artificial Intelligence/Machine Learning/Data Science.<br>⚡ Fun fact: "AI Can Actually Read Your Mind".
 
 
 ## 🌐 Socials:
