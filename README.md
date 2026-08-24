@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashjain02) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashj02) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white?)](https://api.whatsapp.com/send?phone=918989716471) 
 [![Whatsapp usa](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white?)](https://api.whatsapp.com/send?phone=18573973124) 
 
