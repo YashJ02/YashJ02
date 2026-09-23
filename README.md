@@ -30,6 +30,3 @@
 ![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)  	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-
----
-[![](https://visitcount.itsvg.in/api?id=YashJ02&icon=0&color=5)](https://visitcount.itsvg.in)
